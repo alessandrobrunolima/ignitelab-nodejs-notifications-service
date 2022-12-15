@@ -59,6 +59,19 @@ Inicializando uma instância local (Script configurado no package.json)
 - npm rum start:dev
 ```
 
+Verificar erros
+
+```bash
+- npx tsc --noEmit
+```
+
+Rodando os testes
+
+```bash
+- npm rum test:watch
+- npm run test:cov
+```
+
 ---
 
 ## 🎓 Quem ministrou?
