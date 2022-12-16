@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [NestJS](https://nestjs.com/)
 - [Prisma](https://www.prisma.io/)
+- [Kafka](https://kafka.js.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ---
